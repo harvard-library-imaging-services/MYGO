@@ -14,7 +14,7 @@ markmap:
 
 #### [Markmap to HTML tool](https://markmap.js.org/repl)
 
-#### [IS_keyObjectivesMYOGs.docx](https://github.com/harvard-library-imaging-services/MYGO/raw/master/IS_keyObjectivesMYOGs.docx)
+#### [MS Word format](https://github.com/harvard-library-imaging-services/MYGO/raw/master/IS_keyObjectivesMYOGs.docx)
 
 ### [https://bit.ly/IS_MYGO](https://bit.ly/IS_MYGO) *(short, memorable link to this page)*
 
