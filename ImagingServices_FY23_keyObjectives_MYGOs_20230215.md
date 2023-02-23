@@ -10,17 +10,17 @@ markmap:
 ---
 
 
-#### [source file, markdown format](https://raw.githubusercontent.com/harvard-library-imaging-services/MYGO/master/ImagingServices_FY23_keyObjectives_MYGOs_20230215.md?token=GHSAT0AAAAAAB7FOYN76UZPT4HIKRIZD5OYY7XKZUQ)
+### [source file, markdown format](https://raw.githubusercontent.com/harvard-library-imaging-services/MYGO/master/ImagingServices_FY23_keyObjectives_MYGOs_20230215.md?token=GHSAT0AAAAAAB7FOYN76UZPT4HIKRIZD5OYY7XKZUQ)
 
-##### [Markmap to HTML tool](https://markmap.js.org/repl)
+#### [Markmap to HTML tool](https://markmap.js.org/repl)
 
-#### [https://bit.ly/IS_MYGO](https://bit.ly/IS_MYGO) *(short, memorable link to this page)*
+### [https://bit.ly/IS_MYGO](https://bit.ly/IS_MYGO) *(short, memorable link to this page)*
 
-## *whiteboards*
+### *whiteboards*
 
-### [MKG whiteboard](https://hu-my.sharepoint.com/:wb:/g/personal/marissa_kings-garwig_harvard_edu/EUsHiP_rb9REgy4GGoyBUogBcU4AwQvaSo9GG30HXNy6lg)
+#### [MKG whiteboard](https://hu-my.sharepoint.com/:wb:/g/personal/marissa_kings-garwig_harvard_edu/EUsHiP_rb9REgy4GGoyBUogBcU4AwQvaSo9GG30HXNy6lg)
 
-### [Meeting whiteboard](https://wbd.ms/share/v2/aHR0cHM6Ly93aGl0ZWJvYXJkLm1pY3Jvc29mdC5jb20vYXBpL3YxLjAvd2hpdGVib2FyZHMvcmVkZWVtL2Y5NzJmYTY5NDQxZDQ2YTdhODU5ZTI4MDQ3YzJlNTVhXzZmZmEyMmY0LTQ1NjgtNDEwNS1hZDQzLTJlM2FkNDcyNjk1N182YjUyMGU2ZC1kOGVkLTQ0ZWQtODgwZC1lYzRiNTA4ZjFkOTc=)
+#### [Meeting whiteboard](https://wbd.ms/share/v2/aHR0cHM6Ly93aGl0ZWJvYXJkLm1pY3Jvc29mdC5jb20vYXBpL3YxLjAvd2hpdGVib2FyZHMvcmVkZWVtL2Y5NzJmYTY5NDQxZDQ2YTdhODU5ZTI4MDQ3YzJlNTVhXzZmZmEyMmY0LTQ1NjgtNDEwNS1hZDQzLTJlM2FkNDcyNjk1N182YjUyMGU2ZC1kOGVkLTQ0ZWQtODgwZC1lYzRiNTA4ZjFkOTc=)
 
 ---
 
