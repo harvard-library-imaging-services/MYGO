@@ -14,6 +14,8 @@ markmap:
 
 #### [Markmap to HTML tool](https://markmap.js.org/repl)
 
+#### [IS_keyObjectivesMYOGs.docx](IS_keyObjectivesMYOGs.docx)
+
 ### [https://bit.ly/IS_MYGO](https://bit.ly/IS_MYGO) *(short, memorable link to this page)*
 
 ### *whiteboards*
