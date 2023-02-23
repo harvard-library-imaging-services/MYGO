@@ -78,6 +78,8 @@ markmap:
 
 ### Imaging Service public-facing web site revision (*Objective 25*)
 
+### Project Database development, aka pre-production project development and tracking tool (*Objective 25*)
+
 ---
 
 # [MYGO FY23](https://wiki.harvard.edu/confluence/display/ChiefOfStaff/Harvard+Library+Strategic+Directions?preview=%2F233102215%2F301914130%2FMYGO+FY23.pdf)
@@ -397,6 +399,8 @@ markmap:
 #### ==Objective 25: Provide robust support for the business and operations of the Library, by increasing efficiency and training and empowering staff in the use of our IT systems==
 
 ##### ==Review staff systems, optimize for efficiencies, and reduce technical debt==
+
+###### **IMAGING SERVICES**: *Project Database development, aka pre-production project development and tracking tool* 
 
 ###### **IMAGING SERVICES**: *Develop project status dashboard*
 
