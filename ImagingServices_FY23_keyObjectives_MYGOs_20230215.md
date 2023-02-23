@@ -51,7 +51,7 @@ markmap:
 
 ### Digitize and Master Microform (MMF) Tech Cards with the goal of creating an online resource for matching MMF call numbers with Harvard Depository ID, thereby obviating the need to consult the paper MMF _Tech Cards_. (*Objectives 11, 12, 24*)
 
-### Address Image-only PDF problem by raising awareness of the issue and proposing alternatives (*Preserve for the future*).
+### Address Image-only PDF problem by raising awareness of the issue and proposing alternatives (Generically, *Preserve for the future*).
 
 ## ***Adapt our organization to meet our directional goals***
 
