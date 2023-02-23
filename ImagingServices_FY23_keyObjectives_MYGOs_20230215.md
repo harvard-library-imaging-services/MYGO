@@ -70,6 +70,8 @@ markmap:
  
 ## ***Modernize our digital infrastructure***
 
+### Project Database development, aka pre-production project development and tracking tool (*Objective 25*)
+
 ### Digitize and Master Microform (MMF) Tech Cards with the goal of creating an online resource for matching MMF call numbers with Harvard Depository ID, thereby obviating the need to consult the paper MMF _Tech Cards_. (*Objectives 11, 12, 24*)
 
 ### Develop **IBML** equipment replacement and maintenance plan (*Objective 20*).
@@ -78,7 +80,6 @@ markmap:
 
 ### Imaging Service public-facing web site revision (*Objective 25*)
 
-### Project Database development, aka pre-production project development and tracking tool (*Objective 25*)
 
 ---
 
