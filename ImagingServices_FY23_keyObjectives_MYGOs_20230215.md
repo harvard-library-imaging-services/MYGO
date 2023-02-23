@@ -49,8 +49,6 @@ markmap:
 
 ### Address Image-only PDF problem by raising awareness of the issue and proposing alternatives (*Preserve for the future*).
 
----
-
 ## ***Adapt our organization to meet our directional goals***
 
 ### Expanding services for the **preparation of archival collections for digitization**. (*Objective 4*)
@@ -76,6 +74,7 @@ markmap:
 
 ### Imaging Service public-facing web site revision (*Objective 25*)
 
+---
 
 # [MYGO FY23](https://wiki.harvard.edu/confluence/display/ChiefOfStaff/Harvard+Library+Strategic+Directions?preview=%2F233102215%2F301914130%2FMYGO+FY23.pdf)
 
@@ -404,16 +403,5 @@ markmap:
 ##### Conduct a thorough assessment of how the libraries support users of their systems, with a focus on Library Technology Services and consideration of Library technology support as a whole; rethink the support model overall and identify opportunities to streamline support workflows, introduce automation, and increase efficiency
 
 ##### Collaborate with service units to educate Library staff on infrastructure and tools so that they can effectively communicate about them with Harvard researchers and students
-
-
-
-
-
-
-
-
-
-
-
 
 
