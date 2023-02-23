@@ -10,7 +10,7 @@ markmap:
 ---
 
 
-### [source file, markdown format](https://raw.githubusercontent.com/harvard-library-imaging-services/MYGO/master/ImagingServices_FY23_keyObjectives_MYGOs_20230215.md?token=GHSAT0AAAAAAB7FOYN76UZPT4HIKRIZD5OYY7XKZUQ)
+### [source file, markdown format](https://raw.githubusercontent.com/harvard-library-imaging-services/MYGO/master/ImagingServices_FY23_keyObjectives_MYGOs_20230215.md)
 
 #### [Markmap to HTML tool](https://markmap.js.org/repl)
 
