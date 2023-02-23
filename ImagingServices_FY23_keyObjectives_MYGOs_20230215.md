@@ -10,7 +10,7 @@ markmap:
 ---
 
 
-#### [https://bit.ly/IS_MYGO](https://bit.ly/IS_MYGO)
+#### [https://bit.ly/IS_MYGO](https://bit.ly/IS_MYGO) *(short, memorable link to this page)*
 
 #### [Markmap to HTML tool](https://markmap.js.org/repl)
 
