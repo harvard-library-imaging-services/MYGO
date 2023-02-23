@@ -1,0 +1,1 @@
+gsutil rsync -d -r ./mygo gs://linked_content ; gsutil acl -r ch -u AllUsers:R gs://linked_content/mygo/
