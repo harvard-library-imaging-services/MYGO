@@ -33,7 +33,7 @@ markmap:
 
 ### Support the development and refinement of workflows in support of EDIBA-informed collection building, leveraging the department's collections digitization and digital acquisitions processing workflows. (*Objectives 1, 2*)
 
-### Support the development and refinement of HLCDP workflows and business processing, including project tracking, reporting, and scaling.
+### Support the development and refinement of HLCDP workflows and business processing, including project tracking, reporting, and scaling. (Objectives 2, 4)
 
 ### Collaborate with Digital Preservation Services and Media Preservation Services to develop a multi-department workflow for processing **digital acquisitions** so they are accessible and managed for preservation. (*Objective 4*)
 
@@ -157,6 +157,8 @@ markmap:
 #####  ==Explore and implement deeper levels of collaboration between repositories including consolidation and shared approaches for researcher access, acquisitions, university archives and records management, cataloging and processing, digitization, teaching, and other related activities==
 
 ###### **IMAGING SERVICES**: *Collaborate with Digital Preservation Services and Media Preservation Services to develop a multi-department workflow for processing digital acquisitions so they are accessible and managed for preservation.*
+
+##### IMAGING SERVICES: Support the development and refinement of HLCDP workflows and business processing, including project tracking, reporting, and scaling.
 
 #####  ==For born-digital material (including university records, personal and organizational records collected by various library units, web archives, and other related materials), develop expanded capacities for acquisition, preservation and access==
 
