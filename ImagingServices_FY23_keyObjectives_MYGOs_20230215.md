@@ -53,7 +53,7 @@ markmap:
 
 ### Address Image-only PDF problem by raising awareness of the issue and proposing alternatives (Generically, *Preserve for the future*).
 
-## ***Adapt our organization to meet our directional goals***
+## Adapt our organization to meet our directional goals
 
 ### Expanding services for the **preparation of archival collections for digitization**. (*Objective 4*)
 
@@ -63,12 +63,11 @@ markmap:
 
 ### Department managers and staff to collaborate on the identification of professional development and training opportunities for all staff. (*Objective 16*)
 
-  
 ### Propose revised set of department performance metrics to track for Library leadership (*Objective 18*)
 
 ### Improve forecasting and adjusting production schedule to meet the dynamic needs of the Library. Requires productivity metrics keyed to specific services. (*Objective 18*)
  
-## ***Modernize our digital infrastructure***
+## Modernize our digital infrastructure
 
 ### Project Database development, aka pre-production project development and tracking tool (*Objective 25*)
 
