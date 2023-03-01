@@ -83,7 +83,7 @@ markmap:
 
 ---
 
-# [MYGO FY23](https://wiki.harvard.edu/confluence/display/ChiefOfStaff/Harvard+Library+Strategic+Directions?preview=%2F233102215%2F301914130%2FMYGO+FY23.pdf)
+# [Harvard Library MYGO FY23](https://wiki.harvard.edu/confluence/display/ChiefOfStaff/Harvard+Library+Strategic+Directions?preview=%2F233102215%2F301914130%2FMYGO+FY23.pdf)
 
 ## FY23 Priorities
 
