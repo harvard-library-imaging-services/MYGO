@@ -1,0 +1,110 @@
+---
+title: "Imaging Services & Harvard Library multi-year goals and objectives (MYGO)"
+output: 
+  html_document: 
+    highlight: tango
+    theme: cosmo
+    keep_md: yes
+date: "2023-03-02"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+rm(list = ls()) # clear env vars
+
+pkgs.inst <- as.data.frame(installed.packages(noCache = TRUE)) # list of installed R packages
+
+pkgs.load <- c( # default list of packages to load
+  "readr",
+  "pandoc",
+  "googleCloudStorageR",
+  #"esquisse", # GUI ggplot 
+  #"vroom", # loads data fast
+  #"tidylog",
+  #"glue", # join strings neatly
+  #"tsibble", # time series data
+  #"tidytext", # pull apart text data, count elements
+  #"dplyr",
+  #"stats",
+  #"ggplot2",
+  #"scales",
+  "RColorBrewer",
+  "janitor", # clean-up messy col names janitor::clean_names()
+  "lubridate",
+  "htmlTable",
+  "utf8",
+  "RCurl",
+  "tidyr",
+  "xtable",
+  "tidyverse",
+  "jsonlite",
+  # "Rtools",
+  "formattable"
+)
+#
+idx <- pkgs.load %in% pkgs.inst$Package == FALSE # index of packages that need to be installed
+# pkgs.load[idx]
+if(sum(idx) > 0){install.packages(pkgs.load[idx],dependencies = TRUE)} # if at least one package needs installing, run.
+lapply(pkgs.load, require, character.only = TRUE) # require packages be loaded into current env
+
+```
+
+```{r fileMgt, include=FALSE}
+##
+timezone <- "US/Eastern" #Set timezone # set TZ
+if(is.na(Sys.timezone()) == TRUE){
+  Sys.setenv(TZ=timezone)
+}
+##
+os <- .Platform$OS.type
+os <- Sys.info()[[1]][1] #windows linux # identify OS
+#
+
+if(os == "Darwin"){
+  f <- "ImagingServices_FY23_keyObjectives_MYGOs_20230215.md"
+  srcDir <- "/Users/comstock/pCloud Drive/WORK/NOTES"
+  destDir <- "/Users/comstock/pCloud Drive/WORK/MYGO"
+  sfile <- paste(srcDir,f,sep = "/")
+  if(file.exists(sfile) == TRUE){
+    file.copy(from = sfile, to = destDir,overwrite = TRUE)
+  }
+} 
+
+pandoc_convert(file=f, from = "markdown", to = "docx",output = "IS_keyObjectivesMYOGs.docx")
+
+gcs_auth(json_file = "./auth/googlecloudstorager-auth-key.json")
+gcs_global_bucket("gs://linked_content")
+
+gcs_upload(file = "index.html",bucket = "gs://linked_content",name = "mygo/index.html",predefinedAcl = "publicRead")
+gcs_upload(file = "imagingServices_MYGO23.html",bucket = "gs://linked_content",name = "mygo/imagingServices_MYGO23.html",predefinedAcl = "publicRead",)
+gcs_upload(file = "IS_keyObjectivesMYOGs.docx",bucket = "gs://linked_content",name = "mygo/IS_keyObjectivesMYOGs.docx",predefinedAcl = "publicRead")
+gcs_upload(file = "ImagingServices_FY23_keyObjectives_MYGOs_20230215.md",bucket = "gs://linked_content",name = "mygo/ImagingServices_FY23_keyObjectives_MYGOs_20230215.md",predefinedAcl = "publicRead")
+
+```
+
+## Imaging Services' key objectives and corresponding MYGOs
+
+* [MindMap](imagingServices_MYGO23.html)
+
+#### (other formats)
+
+* [markdown, source for mindmap](ImagingServices_FY23_keyObjectives_MYGOs_20230215.md)
+* [MS Word version](IS_keyObjectivesMYOGs.docx)
+
+## Harvard Library FY23 HL/HCL Priorities and Multi-Year Goals and Objectives (MYGO)
+
+* [wiki page](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=300418041)
+
+```{r lastRevised, include=FALSE}
+lastRevised <- timestamp(prefix = "last revised: ", suffix = "")
+```
+
+---
+
+<center><small>
+`r lastRevised`
+</small></center>
+
+<br /><br />
+
